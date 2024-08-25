@@ -1,4 +1,6 @@
 Project Name: HandGestureZoom
+
+
 Description:
 HandGestureZoom is an interactive application that leverages computer vision and hand gesture recognition to control image zooming in real-time. Utilizing a webcam and the CVZone HandTrackingModule, this project enables users to manipulate the size and position of an image on their screen using simple hand gestures.
 
